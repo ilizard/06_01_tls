@@ -1,0 +1,11 @@
+private.key
+cert.crt
+dummy-server.bin
+*.o
+*.so
+*.a
+*.dylib
+.DS_Store
+.vscode/
+*.swp
+*.swo
